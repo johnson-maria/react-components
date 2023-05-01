@@ -1,0 +1,11 @@
+.welcome {
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 0 40px 80px #2b2a2a;
+    border: 4px solid rgb(44, 39, 39);
+    padding: 10px;
+    margin: 5px;
+    border-width: 3px 4px 3px 5px;
+    border-radius:60% 4% 50% 5%/4% 50% 6% 15%;
+    transform: rotate(0,5deg);
+    grid-area: h;
+}
